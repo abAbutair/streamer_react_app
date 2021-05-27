@@ -17,7 +17,6 @@ const StreamShow = (props) => {
         <div>
             <h1>{title}</h1>
             <h5>{description}</h5>
-            <p>hey there</p>
         </div>
     );
 };
